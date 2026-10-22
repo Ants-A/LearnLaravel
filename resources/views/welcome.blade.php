@@ -8,9 +8,6 @@
     @vite('resources/css/app.css')
 </head>
 <body>
-    <a href="/buttons">Buttons</a>
-    <div class="container mx-auto">
-        <div class="bg-blue-500 w-50 h-50"></div>
-    </div>
+    <a href="/buttons" class="bg-blue-500 text-xl font-small rounded-sm text-white p-3">Buttons</a>
 </body>
 </html>

@@ -10,7 +10,7 @@
 <body>
     <a href="/">Home</a>
     <div class="container mx-auto">
-        <button>Click me</button>
+        <button class="bg-blue-500 text-xl font-small rounded-sm text-white p-3">Click me</button>
     </div>
 </body>
 </html>
